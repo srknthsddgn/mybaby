@@ -1,1 +1,3 @@
-# mybaby
+# maven-project
+
+Simple Maven Project
